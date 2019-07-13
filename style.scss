@@ -13,7 +13,7 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+// @import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
 
 html {
   font-size: 100%;
@@ -356,10 +356,11 @@ body:after {
     content: '';
 }
 
-// @font-face {
-//     font-family: EBGaramond;
-//     src: url(fonts/EBGaramond-Regular.ttf);
-// }
+@font-face {
+    font-family: Lora;
+    src: url(fonts/Lora/Lora-Regular.ttf);
+    font-display: fallback;
+}
 
 // @font-face {
 //     font-family: FuturaPTLight;
