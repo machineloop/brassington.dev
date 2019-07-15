@@ -7,4 +7,4 @@ comments: true
 link: http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
 ---
 
-Great illustration of functional concepts, highly recommended as an overview!
+[Great illustration of functional concepts](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html), highly recommended as an overview!
