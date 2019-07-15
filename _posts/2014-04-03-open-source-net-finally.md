@@ -2,8 +2,7 @@
 layout: post
 title: "Open Source .NET: Finally"
 description: "Examples and code for displaying images in posts."
-category: Microsoft
-tags: [.NET, Microsoft]
+categories: Microsoft .NET
 image: 
   feature: picture-15.jpg
 comments: true
