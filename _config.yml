@@ -82,12 +82,6 @@ plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
-  - jekyll-analytics
-  
-jekyll_analytics:
-  Matomo:
-    url: brassington.westus.cloudapp.azure.com
-    siteId: "1"
 
 include: ['_pages']
 
