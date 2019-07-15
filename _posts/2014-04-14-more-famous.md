@@ -3,10 +3,7 @@ layout: post
 title: "Famous: the Jquery of DOM Management"
 description: "Famous will revolutionize DOM access."
 headline: 
-category: Travel
-tags: [DOM, JavaScript, Famous]
-image: 
-  feature:  
+categories: DOM JavaScript Famo.us  
 comments: true
 mathjax: 
 ---
