@@ -2,10 +2,7 @@
 layout: post
 title: 'A Tour of Inheritance Patterns in Javascript: Part 3'
 description: 'Find out how to use the prototypal class pattern in JS'
-category: Javascript Classes
-tags: [Code, Javascript]
-image:
-  feature: 
+categories: Javascript Classes Code
 comments: true
 share: true
 ---
