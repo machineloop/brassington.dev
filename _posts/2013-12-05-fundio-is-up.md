@@ -3,7 +3,6 @@ layout: post
 title: "Fund.io goes Live"
 description: "I can't wait to find out!"
 category: Portfolio
-tags: [group project, link post]
 comments: true
 link: http://www.fund.io/
 ---
