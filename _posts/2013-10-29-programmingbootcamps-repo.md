@@ -3,9 +3,7 @@ layout: post
 title: ProgrammingBootcamps.com Repository Pattern
 description: 
 category: Portfolio
-tags: [Repository Pattern, Code, Microsoft]
-image:
-  feature: picture-29.jpg
+categories: Repository Pattern Code Microsoft
 comments: true
 share: true
 ---
