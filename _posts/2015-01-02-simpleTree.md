@@ -3,9 +3,6 @@ layout: post
 title: 'Simple Tree Implementation'
 description: 'Practice implementing a Tree data structure'
 category: Javascript
-tags: [Code]
-image:
-  feature: 
 comments: true
 share: true
 ---
