@@ -4,10 +4,6 @@ title: 'Time Travel in JS'
 description: 'Node.js with ChakraCore allows experimental step back function during code execution'
 category: Javascript
 tags: [Code]
-image:
-  feature: 
-comments: true
-share: false
 ---
 
 I've always been intruiged by tools that can help make debugging easier and more efficient. I've often wondered why I can't step backward during code execution in the browser, the step forward button seems to beg a corresponding step backward button to match.
