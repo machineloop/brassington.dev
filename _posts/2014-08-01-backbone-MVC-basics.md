@@ -2,10 +2,7 @@
 layout: post
 title: 'Backbone MVC Basics'
 description: 'What is Backbone and how does it organize JS'
-category: Javascript
-tags: [Code, Javascript, Libraries]
-image:
-  feature: 
+categories: Code Javascript Libraries
 comments: true
 share: true
 ---
