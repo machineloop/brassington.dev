@@ -3,10 +3,7 @@ layout: post
 type: status
 title: "Hired on At Coder Camps"
 description: 
-category: Status
-tags: [Status, Hired]
-image: 
-  feature: laptop.jpg
+category: Status Hired
 comments: true
 mathjax: 
 ---
