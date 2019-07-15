@@ -3,10 +3,7 @@ layout: post
 title: "Revamping Curriculum"
 description: "Time to focus on Javascript."
 headline: 
-category: Bootcamp
-tags: [Technical, Curriculum, Incoming Students]
-image: 
-  feature:  
+categories: Bootcamp Technical Curriculum Incoming Students
 comments: true
 mathjax: 
 ---
