@@ -41,4 +41,4 @@ I couldn't find a clear answer to that question, but it seems they used the even
 
 Super cool stuff! Can't wait to use this in my day-to-day workflow, seems like a great tool to have once it's had more of its bugs shaken out!
 
-What do you think? Let me know in the comments or reach out to me at andrew@brassington.io
+What do you think? Let me know in the comments or reach out to me at andrew@brassington.dev
