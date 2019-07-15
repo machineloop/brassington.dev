@@ -3,8 +3,6 @@ layout: post
 title: 'React Native'
 description: 'Mobile development revolutionized'
 category: Javascript
-image:
-  feature: 
 comments: true
 share: true
 ---
