@@ -34,6 +34,14 @@ layout: default
   <!--<div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>-->
+  
+  <form class="tinyletterForm" action="https://tinyletter.com/brassingtondev" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/brassingtondev', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+    <h3>Newsletter</h3>
+    <p><label for="tlemail">Subscribe to get up-to-date with current webdev trends, tutorials, and more.</label></p>
+    <p><input type="text" name="email" id="tlemail" class="tlemail" placeholder="Enter your email address" /></p>
+    <input type="hidden" value="1" name="embed"/>
+    <input type="submit" value="Subscribe" class="subscribeBtn" />
+  </form>
 
   {% include disqus.html %}
 </article>
