@@ -3,9 +3,6 @@ layout: post
 title: 'Simple JS Stream Class'
 description: 'A simple implemenation of a stream in JS'
 category: Javascript
-tags: [Code]
-image:
-  feature: 
 comments: true
 share: true
 ---
