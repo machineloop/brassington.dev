@@ -3,10 +3,7 @@ layout: post
 title: "Interviewing Applicants"
 description: "It's hard to answer some questions for incoming campers."
 headline: 
-category: Bootcamp
-tags: [Technical, Interviews, Incoming Students]
-image: 
-  feature: skype-job-interview.jpg 
+categories: Bootcamp Technical Interviews Incoming Students
 comments: true
 mathjax: 
 ---
