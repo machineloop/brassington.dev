@@ -3,11 +3,6 @@ layout: post
 title: 'Reducing the Feedback Loop'
 description: 'Using our tooling to reduce feedback loop'
 category: Rust
-tags: [Code]
-image:
-  feature: 
-comments: true
-share: false
 ---
 
 As developers, it's easy to get swept up in the hype surrounding a new tool, and new language, a new way of thinking about a concept, or programming pattern. Sometimes we spend a lot of time reinventing the wheel over and over and over again. It would seem to me that some of the adjustments I've made in my career that have paid off in spades are the ones I've used systematically through adjusting my tooling.
