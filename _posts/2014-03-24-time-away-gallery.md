@@ -3,10 +3,7 @@ layout: post
 type: photo
 title: "Time Away"
 description: "It's good to spend time with family away from work."
-category: photos
-tags: [Breaks, Vacation, Family, Photos]
-image: 
-  feature: gallery1/farm-walk3.jpg
+categories: Breaks Vacation Family Photos
 comments: true
 mathjax: 
 ---
