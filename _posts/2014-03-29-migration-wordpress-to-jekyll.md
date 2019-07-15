@@ -3,10 +3,7 @@ layout: post
 title: "Wordpress to Jekyll: Almost Done"
 description: This weekend I migrated my blog to simple, minimal, and sleek Jekyll
 headline: 
-category: Blog-Maintenence
-tags: [Jekyll, Features, Migration]
-image: 
-  feature: jekyllLogo.png 
+categories: Blog-Maintenence Jekyll Features Migration
 comments: true
 mathjax: 
 ---
