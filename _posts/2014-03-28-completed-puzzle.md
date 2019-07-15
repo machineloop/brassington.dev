@@ -3,9 +3,7 @@ layout: post
 title: "New or Incomplete Projects"
 description: At Coder Camps we had a vigorous discussion about whether you should start a new project or pick up an incomplete project as a team.
 headline: Pick up the Puzzle and Solve It
-tags: [Teamwork, Incomplete, Complete, Projects]
-image: 
-  feature: picture-38.jpg
+categories: Teamwork Incomplete Complete Projects
 comments: true
 mathjax: true
 ---
