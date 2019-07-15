@@ -1,7 +1,7 @@
 {% if site.matomo %}
 <script type="text/javascript">
   var _paq = window._paq || [];
-  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setDocumentTitle", document.location.href + "/" + document.title]);
   _paq.push(["setCookieDomain", "*.brassington.dev"]);
   _paq.push(["setDomains", ["*.brassington.dev"]]);
   _paq.push(['trackPageView']);
