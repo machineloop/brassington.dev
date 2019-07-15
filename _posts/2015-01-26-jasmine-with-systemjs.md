@@ -3,9 +3,6 @@ layout: post
 title: 'Jasmine Unit Testing with SystemJS'
 description: 'Writing unit tests using SystemJS + Jasmine'
 category: Javascript
-tags: [Code]
-image:
-  feature: 
 comments: true
 share: true
 ---
