@@ -2,11 +2,8 @@
 layout: post
 type: status
 title: "Embassador to Perfection"
-description: 
-category: Status
-tags: [Status, Perfection]
-image: 
-  feature: laptop.jpg
+description:
+categories: Status Perfection
 comments: true
 mathjax: 
 ---
