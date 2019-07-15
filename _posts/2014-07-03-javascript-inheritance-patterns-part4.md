@@ -2,10 +2,7 @@
 layout: post
 title: 'A Tour of Inheritance Patterns in Javascript: Part 4'
 description: 'Find out how to use the most popular pseudo-classical class pattern in JS'
-category: Javascript Classes
-tags: [Code, Javascript]
-image:
-  feature: 
+categories: Javascript Classes Code Javascript
 comments: true
 share: true
 ---
