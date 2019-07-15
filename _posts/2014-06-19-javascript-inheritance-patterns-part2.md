@@ -3,9 +3,6 @@ layout: post
 title: 'A Tour of Inheritance Patterns in Javascript: Part 2'
 description: 'Find out how to use the functional-shared class pattern in JS'
 category: Javascript Classes
-tags: [Code, Javascript]
-image:
-  feature: 
 comments: true
 share: true
 ---
