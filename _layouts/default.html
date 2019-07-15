@@ -4,7 +4,9 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     {% seo %}
     {% include meta.html %}
-
+    
+    <link rel="preload" href="/fonts/Lora/Lora-Regular.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/fonts/Lora/Lora-Regular.woff" as="font" type="font/woff" crossorigin>
     <link rel="preload" href="/fonts/Lora/Lora-Regular.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
