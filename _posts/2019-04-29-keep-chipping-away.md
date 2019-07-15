@@ -2,7 +2,7 @@
 layout: post
 title: 'Keep Chipping Away'
 description: '5 Key Strategies to Reduce SPA Script Load Times'
-categories: Web, Performance
+categories: Web Performance
 ---
 
 I wrote this blog post to go along with a lightning talk given at an internal Microsoft performance conference on May 20, 2019.
