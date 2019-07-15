@@ -3,10 +3,7 @@ layout: post
 title: "Technical Interviews"
 description: You need practice to get comfortable with tech interviews.
 headline: 
-category: Bootcamp
-tags: [Technical, Interviews]
-image: 
-  feature: Red_Velvet_Cake_Waldorf_Astoria.jpg 
+categories: Bootcamp Technical Interviews
 comments: true
 mathjax: 
 ---
