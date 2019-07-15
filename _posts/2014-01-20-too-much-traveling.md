@@ -3,10 +3,7 @@ layout: post
 title: "Too Much Traveling"
 description: "Time to focus on Javascript."
 headline: 
-category: Travel
-tags: [Traveling, Flights, Coder Camps]
-image: 
-  feature:  
+categories: Traveling Flights CoderCamps
 comments: true
 mathjax: 
 ---
