@@ -2,7 +2,7 @@
 layout: post
 title: 'Keep Chipping Away'
 description: '5 Key Strategies to Reduce SPA Script Load Times'
-category: Web
+categories: Web
 tags: [Web, Performance]
 image:
   feature: 
