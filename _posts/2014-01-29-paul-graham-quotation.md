@@ -5,9 +5,6 @@ title: "Paul Graham Quote"
 description: 
 headline: 
 category: Quotes
-tags: [sample post, quotation]
-image: 
-  feature: paulgraham.jpg
 comments: true
 mathjax: 
 ---
