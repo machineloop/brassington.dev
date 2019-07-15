@@ -3,9 +3,6 @@ layout: post
 title: 'Asyncronous Task Map'
 description: 'How to keep track of asyncronous functions, and run a function on all their results'
 category: Javascript
-tags: [Code]
-image:
-  feature: 
 comments: true
 share: true
 ---
