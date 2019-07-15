@@ -2,10 +2,7 @@
 layout: post
 title: Creating a Famo.us Textarea Surface
 description: 
-category: Famous
-tags: [Famous, Code, Javascript, Github]
-image:
-  feature: 
+categories: Famo.us Code Javascript Github
 comments: true
 share: true
 ---
