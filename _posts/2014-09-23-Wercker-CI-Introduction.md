@@ -2,10 +2,7 @@
 layout: post
 title: 'Using Wercker to Setup CI Testing'
 description: 'How to use a new service that uses docker containers to manage continuous integration testing.'
-category: Javascript
-tags: [Code, Testing, Services]
-image:
-  feature: 
+categories: Javascript Code Testing Services
 comments: true
 share: true
 ---
