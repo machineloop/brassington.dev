@@ -688,23 +688,24 @@ Modules - reusable parts of our design
 
 .subscribeBtn {
   width: 30%;
-  background-color: #4CAF50;
+  background-color: rgba(255, 255, 255, 0.25);
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
-  border: none;
+  border-color: rgba(255, 255, 255, 0.25);
   border-radius: 4px;
   cursor: pointer;
   font-size: 11pt;
 }
 
 .tinyletterForm {
-  border: 1px solid #ccc;
+  border-top: 5px solid #EEC65E;
   padding: 3px;
   text-align: center;
-  background: #ececec;
   margin: 8px;
   border-radius: 5px;
+  background-image: linear-gradient(180deg, #CA9D29CC, #bd7272);
+  color: #fff;
 }
 
 .btn-subscribe {
