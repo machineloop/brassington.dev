@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img src="/images/brassington-teaching.jpg" alt="Andrew Brassington teaching at an intensive bootcamp"/>
+
  * <andrew@brassington.dev>
  * <https://brassington.dev>
 
